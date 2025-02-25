@@ -5,9 +5,11 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
--Software engineering is the systematic application of engineering principles to design, develop, test, and maintain software.
 
--Importance:
+- Software engineering is the systematic application of engineering principles to design, develop, test, and maintain software.
+
+- Importance:
+  
 1. Development of high-quality software with as much as eliminating errors.
 2. To guarantee security and compliance with industry standards.
 3. Facilitate scaling and maintenance of the software systems.
@@ -35,7 +37,8 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 3. Waterfall methodology provides late feedback while Agile methodology provides continuous feedback.
 4. Waterfall methodology is best for large-scale, well-defined projects	while Agile methodology is best for dynamic, fast-changing projects.
 
--Use case examples:
+- Use case examples:
+  
 1. Waterfall: Government or banking systems - used, where the requirements are known and there is predictability.
 2. Agile: Mobile app development - is exceedingly dynamic and fast-changing.
 
