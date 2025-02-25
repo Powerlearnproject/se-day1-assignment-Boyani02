@@ -79,12 +79,13 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
-Prompt engineering involves crafting precise and effective inputs to optimize responses from AI models thereby providing optimal output in terms of relevance for the data.
+- Prompt engineering involves crafting precise and effective inputs to optimize responses from AI models thereby providing optimal output in terms of relevance for the data.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
-Vague prompt: Describe cloud computing.
-Improved prompt: Explain cloud computing, with its different service models, and provide real-world use cases.
+- Vague prompt: Describe cloud computing.
+  
+- Improved prompt: Explain cloud computing, with its different service models, and provide real-world use cases.
 
 Effectiveness of improved prompt: 
 1. Clearer scope which specifies cloud computing service models and real-world applications.
